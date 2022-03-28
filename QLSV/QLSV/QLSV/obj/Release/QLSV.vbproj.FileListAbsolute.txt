@@ -1,0 +1,16 @@
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Release\QLSV.exe.config
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Release\QLSV.exe
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Release\QLSV.pdb
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Release\QLSV.xml
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.qlDiem.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.qlKhoa.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.qlLop.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.qlmain.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.Resources.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.qlMonHoc.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.qlsv.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.vbproj.GenerateResource.cache
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.vbproj.CoreCompileInputs.cache
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.exe
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.xml
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Release\QLSV.pdb

@@ -1,0 +1,106 @@
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\hien\source\repos\QLSV\QLSV\bin\Debug\QLSV.xml
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.vbprojAssemblyReference.cache
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.qlmain.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.qlsv.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.xml
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.qlDiem.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.qlKhoa.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.qlLop.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.qlMonHoc.resources
+C:\Users\hien\source\repos\QLSV\QLSV\obj\Debug\QLSV.about.resources
+D:\đồ án Quản trị csdl\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\đồ án Quản trị csdl\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\đồ án Quản trị csdl\QLSV\QLSV\QLSV\obj\Debug\QLSV.xml
+D:\đồ án Quản trị csdl\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbprojAssemblyReference.cache
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlDiem.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlKhoa.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlLop.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlMonHoc.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.about.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.xml
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\bin\Debug\QLSV.xml
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.frmain.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlNguoidung.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.frlogin.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlSinhVien.resources
+C:\Users\hien\source\repos\QLSV\QLSV\QLSV\obj\Debug\QLSV.frGiangVien.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.xml
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbprojAssemblyReference.cache
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frGiangVien.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlNguoidung.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frlogin.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlDiem.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlKhoa.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlLop.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frmain.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlMonHoc.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlSinhVien.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.about.resources
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.xml
+D:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.xml
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbprojAssemblyReference.cache
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frGiangVien.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlNguoidung.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frlogin.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlDiem.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlKhoa.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlLop.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frmain.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlMonHoc.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlSinhVien.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.about.resources
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.xml
+E:\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\bin\Debug\QLSV.xml
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbprojAssemblyReference.cache
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frGiangVien.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlNguoidung.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frlogin.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlDiem.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlKhoa.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlLop.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.frmain.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.Resources.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlMonHoc.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.qlSinhVien.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.about.resources
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.GenerateResource.cache
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.vbproj.CoreCompileInputs.cache
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.xml
+G:\hoc\mon hoc\đồ án vb.net\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
